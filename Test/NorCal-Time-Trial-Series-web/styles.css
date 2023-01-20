@@ -21,15 +21,19 @@
 
 .title-and-links {
   display: flex;
-  justify-items: space-between;
+justify-items: space-between; 
 }
 
 .links {
+  width: 748px;
+  display: flex;
+  justify-content: space-between;
   margin-left: 5px;
   font-size: 50px;
   font-family:Arial, Helvetica, sans-serif;
   font-style: italic;
   color: #5e009c;
+  cursor: pointer
 }
 
 .image1 {
@@ -63,4 +67,8 @@ li {
 p {
   font-size: larger;
   margin-left: 10px
+}
+
+.about {
+  margin-left: 90px;
 }
