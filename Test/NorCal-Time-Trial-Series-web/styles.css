@@ -40,10 +40,26 @@ justify-items: space-between;
   color: #5e009c;
 }
 
+.image-title img {
+  width: 196px;
+}
+
 .image1 {
   margin-top: 5px;
   height: 157px;
   width: 198px;
+}
+
+.image1 img {
+  width: 200px;
+}
+
+.image2 img {
+  width: 200px;
+}
+
+.image3 img {
+  width: 350px;
 }
 
 .list-container {
